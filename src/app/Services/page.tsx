@@ -30,8 +30,8 @@ const Page = () => {
     {
       title: "Color Correction",
       description: "Custom design solutions",
-      beforeImage: "/back-before.jpg",
-      afterImage: "/back-after.jpg",
+      beforeImage: "/back-before.JPG",
+      afterImage: "/back-after.JPG,
     },
     {
       title: "Jewellary Retouching",
