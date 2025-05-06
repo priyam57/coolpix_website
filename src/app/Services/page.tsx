@@ -108,12 +108,14 @@ const Page = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {services.map((service, index) => (
               <div key={index} className="group">
+                <div className="w-full max-w-md mx-auto">
                 <BeforeAfterSlider
                   beforeUrl={service.beforeImage}
                   afterUrl={service.afterImage}
                   title={service.title}
                   description={service.description}
                 />
+                  </div>
               </div>
             ))}
           </div>
