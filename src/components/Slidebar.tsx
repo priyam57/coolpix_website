@@ -4,36 +4,28 @@ import Link from "next/link";
 
 const reviews = [
   {
-    name: "Rajesh Kumar",
-    role: "E-commerce Business Owner",
+    name: "Jitender Gahlot",
+    role: "Senior Editor",
     description:
       "The background removal service saved me countless hours of work! My product photos now look professional and consistent across my entire catalog. The quick turnaround time was impressive.",
     rating: "★★★★★",
     image: "image1.avif",
   },
-  {
-    name: "Priya Patel",
-    role: "Photography Studio Manager",
+   {
+    name: "Mhieer Tiwari",
+    role: "Photographer",
     description:
-      "Your color correction service transformed our dull product images into vibrant, eye-catching visuals. The attention to detail in maintaining natural tones while enhancing appeal is remarkable.",
+      "uses creative and technical expertise to capture and produce still images, often to tell a story or document an event",
     rating: "★★★★☆",
     image: "image2.webp",
   },
   {
-    name: "Amit Joshi",
-    role: "Marketing Director",
+    name: "Aman Pokhriyal",
+    role: "Senior Editor",
     description:
       "The graphic design team exceeded our expectations with our campaign materials. They perfectly captured our brand identity while bringing fresh creative ideas to the table.",
     rating: "★★★★★",
     image: "image4.webp",
-  },
-  {
-    name: "Neha Gupta",
-    role: "Fashion Blogger",
-    description:
-      "I'm amazed by the product dusting service - it made my jewelry photos look magazine-worthy without any harsh editing. The natural yet polished results are exactly what I needed.",
-    rating: "★★★★★",
-    image: "image3.webp",
   },
 ];
 
