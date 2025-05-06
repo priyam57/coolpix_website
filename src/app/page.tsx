@@ -41,7 +41,7 @@ export default function Home() {
     },
     {
       icon: Palette,
-      title: "Health & Beauty Retouching",
+      title: "Beauty Retouching",
       description: "Specialized editing that enhances while maintaining natural textures and authenticity."
     },
     {
