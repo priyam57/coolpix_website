@@ -32,8 +32,8 @@ const Page = () => {
     {
       title: "Clothes Image Editing",
       description: "Custom design solutions",
-      beforeImage: "/clothes-editing-before.jpg",
-      afterImage: "/clothes-editing-after.jpg",
+      beforeImage: "/CLOTHES_IMAGE-before.jpg",
+      afterImage: "/CLOTHES_IMAGE-after.jpg",
     },
     {
       title: "Color Correction",
