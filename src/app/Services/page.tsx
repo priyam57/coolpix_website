@@ -66,7 +66,7 @@ const Page = () => {
       afterImage: "/Masking-after.jpg",
     },
     {
-      title: "Background Dusting",
+      title: "Other Services",
       description: "Remove dust and scratches",
       beforeImage: "/Background-dusting-before.jpg",
       afterImage: "/Background-dusting-after.jpg",
