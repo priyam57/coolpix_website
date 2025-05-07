@@ -121,7 +121,7 @@ export default function About() {
                 <h1 className="text-white text-xl sm:text-2xl font-bold mb-4">Retouching</h1>
                 <div className="relative h-[200px] sm:h-[280px] rounded-lg overflow-hidden">
                   <Image
-                    src={"/Retouching.png"}
+                    src={"/background-image_all.jpg"}
                     alt="retouching"
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-500"
