@@ -9,7 +9,7 @@ const reviews = [
     description:
       "The background removal service saved me countless hours of work! My product photos now look professional and consistent across my entire catalog. The quick turnaround time was impressive.",
     rating: "★★★★★",
-    image: "image1.avif",
+    image: "jeet.jpg",
   },
    {
     name: "Mhieer Tiwari",
@@ -17,7 +17,7 @@ const reviews = [
     description:
       "uses creative and technical expertise to capture and produce still images, often to tell a story or document an event",
     rating: "★★★★☆",
-    image: "image2.webp",
+     image: "mhieer.jpg",
   },
   {
     name: "Aman Pokhriyal",
@@ -25,7 +25,7 @@ const reviews = [
     description:
       "The graphic design team exceeded our expectations with our campaign materials. They perfectly captured our brand identity while bringing fresh creative ideas to the table.",
     rating: "★★★★★",
-    image: "image4.webp",
+     image: "aman.jpg",
   },
 ];
 
@@ -115,7 +115,7 @@ export default function EditingServices() {
                       <img
                         src={review.image}
                         alt={review.name}
-                        className="w-16 h-16 rounded-full" // Circle image
+                        className="w-20 h-20 rounded-full" // Circle image
                       />
                     </div>
                   </div>
