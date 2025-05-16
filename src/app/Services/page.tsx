@@ -26,8 +26,8 @@ const Page = () => {
     {
       title: "Beauty Retouching",
       description: "Enhance products and models naturally",
-      beforeImage: "/BEAUTY_RETOUCHING-before.jpg",
-      afterImage: "/BEAUTY_RETOUCHING-after.jpg",
+      beforeImage: "/Beauty.jpg",
+      afterImage: "/Beauty_After.jpg",
     },
     {
       title: "Clothes Image Editing",
